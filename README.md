@@ -13,12 +13,7 @@
   <img align="center" align="center" src="https://netlify--flourishing-souffle-5e5d63.netlify.app/api/top-langs/?username=Xrider-15&layout=donut-vertical" />
 </a>
 
-
-
-
-
-
-
+---
 - 👋 Hi, I’m @Xrider-15
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
