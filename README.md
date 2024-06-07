@@ -10,7 +10,7 @@
   <img align="center" src="https://netlify--flourishing-souffle-5e5d63.netlify.app/api?username=Xrider-15&show_icons=true" />
 </picture>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" align="center" src="https://netlify--flourishing-souffle-5e5d63.netlify.app/api/top-langs/?username=Xrider-15&exclude_repo=github-readme-stats&exclude_repo=Learn-Rust&layout=donut-vertical" />
+  <img align="center" align="center" src="https://netlify--flourishing-souffle-5e5d63.netlify.app/api/top-langs/?username=Xrider-15&exclude_repo=github-readme-stats,Learn-Rust&layout=donut-vertical" />
 </a>
 
 ---
